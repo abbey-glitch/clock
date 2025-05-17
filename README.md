@@ -1,3 +1,3 @@
 # clock
 wall clock
-https://abbey-glitch.github.io/clock/
+https://abbey-glitch.github.io/clock/clock.html
